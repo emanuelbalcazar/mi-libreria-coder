@@ -1,0 +1,25 @@
+{
+    "name": "mi-libreria-coder",
+    "version": "1.0.0",
+    "description": "libreria de ejemplo",
+    "main": "index.js",
+    "scripts": {
+        "test": "node ./src/test/test"
+    },
+    "engines": {
+        "node": ">=12.0.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/emanuelbalcazar/mi-libreria-coder.git"
+    },
+    "author": "Emanuel Balcazar",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/emanuelbalcazar/mi-libreria-coder/issues"
+    },
+    "homepage": "https://github.com/emanuelbalcazar/mi-libreria-coder#readme",
+    "dependencies": {
+        "chalk": "^4.1.1"
+    }
+}
