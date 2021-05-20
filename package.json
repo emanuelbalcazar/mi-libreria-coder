@@ -1,8 +1,8 @@
 {
     "name": "mi-libreria-coder",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "libreria de ejemplo",
-    "main": "index.js",
+    "main": "./src/index.js",
     "scripts": {
         "test": "node ./src/test/test"
     },
